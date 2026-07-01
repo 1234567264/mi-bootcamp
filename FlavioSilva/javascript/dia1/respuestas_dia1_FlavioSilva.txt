@@ -1,0 +1,21 @@
+Preguntas: 
+
+1) Antes de hoy guardaban su trabajo en Google Drive. Hoy lo hacen en GitHub. 
+   Explica con tus propias palabras qué ganaron al cambiar, 
+   más allá de "es más profesional". 
+   Se específico: ¿qué puedes hacer ahora que no podías antes?
+
+    - Bueno puedo incluso subir webs estáticas en GitHub y compartirlos, 
+      aparte me ayuda a controlar versiones de mis proyectos, puedo ver proyectos 
+      externos también. Hay cosas que no conocía como las llaves SSH y 
+      aún me falta entender más pero con el timepo lo comprenderé. 
+
+2)  ¿Qué fue lo más confuso del día? No digas "todo estuvo claro" 
+    porque eso es estadísticamente imposible. 
+    Identifica el momento exacto donde tu cabeza tuvo que detenerse a pensar, 
+    y explica cómo lo resolviste (o si todavía no lo resolviste).
+
+    - La verdad entender acerca de ramas y llaves SSH, nunca habia usado eso, 
+      aparte el usar el git bash, normalmente lo usaba en VSC su terminal por mejor UI,
+      así que lo que me pareció más confuso fue entender ramas, SSh y también crear repos 
+      locales, ya que normalmente creo un repo en GitHub y lo clono nada más. 
