@@ -23,9 +23,9 @@ node index.js
 
 ```
 --- 
-## Autores 
-- **Flavio Silva** _(Driver)_ 
-- **Samir Ochoa** _(Navigator)_ 
+## Autores
+- **Samir Ochoa** _(Driver)_  
+- **Flavio Silva** _(Navigator)_ 
 
 --- 
 ## Estado del Proyecto 
